@@ -1,0 +1,11 @@
+.list-container {
+  display: flex;
+  list-style-type: none;
+}
+.list-items {
+  border-style: solid;
+  border-width: 0px;
+  background-color: #ffffff;
+  padding: 4px;
+  font-weight: bold;
+}
